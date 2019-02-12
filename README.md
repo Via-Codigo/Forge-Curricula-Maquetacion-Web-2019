@@ -1,11 +1,11 @@
-# Currícula 2018 (Estación la Paz 2)
+# Currícula 2019 (Alianza Vía Código - Forge)
 
 En construcción. Iremos publicando más clases según se valide su efectividad
 
 <p > <img src="https://viacodigo.com/images/logo_azul.svg" ></p>
 <br>
 
-Esta es la currícula fija de **Estación la Paz 2**.
+Esta es la currícula fija de **Forge**.
 
 Tambień tenemos el listado de [talleres de especialización](Talleres.md)
 
