@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  color: #000;
+}
+body {
+  min-height: 100vh;
+  background-color: #ececec;
+}
+header {
+  background-color: #000;
+}
+.menu {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu,
+.submenu {
+  background: #f05351;
+}
+
+.menu li {
+  color: #fff;
+  background: #f05351;
+  display: block;
+  padding: 16px;
+  text-decoration: none;
+  transition-duration: 0.5s;
+}
+
+.menu a {
+  color: #fff;
+}
+.submenu-container {
+  position: relative;
+}
+
+.menu li:hover {
+  background: #16415e;
+  cursor: pointer;
+}
+
+.submenu {
+  background: #f05351;
+  visibility: hidden;
+  opacity: 0;
+  min-width: 100px;
+  position: absolute;
+  transition: all 0.5s ease;
+  margin-top: 16px;
+  left: -25vw;
+  display: none;
+}
+
+.producto {
+  margin: 50px;
+}
+
+.titulo-producto {
+  color: #16415e;
+  margin: 10px 0;
+}
+
+.link-producto:hover {
+  text-decoration: underline;
+}
+
+.menu li:hover > .submenu,
+.menu li .submenu:hover {
+  visibility: visible;
+  opacity: 1;
+  display: block;
+}
+
+.menu li:hover > .submenu--mega,
+.menu li .submenu--mega:hover {
+  visibility: visible;
+  opacity: 1;
+  display: flex;
+}

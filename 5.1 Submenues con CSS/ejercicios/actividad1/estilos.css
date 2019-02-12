@@ -1,0 +1,86 @@
+html,
+body,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+ol,
+a,
+main,
+section,
+article,
+div,
+footer,
+header,
+span {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #ececec;
+}
+header {
+  background-color: #000;
+}
+.menu {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu,
+.submenu {
+  background: #f05351;
+}
+
+.menu li {
+  color: #fff;
+  background: #f05351;
+  display: block;
+  padding: 16px;
+  text-decoration: none;
+  transition-duration: 0.5s;
+}
+
+.menu a {
+  color: #fff;
+}
+.submenu-container {
+  position: relative;
+}
+
+.menu li:hover {
+  background: #16415e;
+  cursor: pointer;
+}
+
+.submenu {
+  background: #f05351;
+  visibility: hidden;
+  opacity: 0;
+  min-width: 100px;
+  position: absolute;
+  transition: all 0.5s ease;
+  margin-top: 16px;
+  left: 0;
+  display: none;
+}
+
+.menu li:hover > .submenu,
+.menu li .submenu:hover {
+  visibility: visible;
+  opacity: 1;
+  display: block;
+}
