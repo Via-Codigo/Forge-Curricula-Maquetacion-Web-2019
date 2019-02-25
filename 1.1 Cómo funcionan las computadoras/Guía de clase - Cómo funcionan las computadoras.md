@@ -108,9 +108,9 @@ Según cuantos sean y el nivel de dificultad deseado, se pueden formar grupos de
 | 1   | 0   | 0   | 0   | 0   | 1   | **33** |
 
 #### Material Actividad
-
+####PRUEBA
 [Tarjetas de bits](https://drive.google.com/open?id=1bDADOzCzEgtcdb66yG8KoMT_eP3kqyET)
-
+####PRUEBA
 ---
 
 ### IV. Descifrando Mensajes
