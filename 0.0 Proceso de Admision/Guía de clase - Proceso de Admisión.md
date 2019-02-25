@@ -22,14 +22,11 @@ Primero se comienza con una pequeña intro a HTML y al ejercicio. Comenzaremos t
 
 ## Conceptos
 
-- Que es Vía Código
-- Qué es estación la Paz
-- Como funciona Estación la Paz
 - Por qué programación web
 - Por qué Desarrollo personal
-- Que pasa al terminar VC
+- Que pasa al terminar 
 - Cuál es la currícula
-- Normas de VC
+- Normas
 
 ## Actividades
 
@@ -44,3 +41,6 @@ Momento de cierre para que los alumnos puedan preguntar todo lo que quieran sobr
 **Instrucciones**: Se brinda un espacio para que los alumnos puedan hacer todas las preguntas que deseen sobre el programa. Si se hacen preguntas sobre normas, se explica que estas se van a discutir y explicar durante la siguiente dinámica.
 
 ---
+
+
+

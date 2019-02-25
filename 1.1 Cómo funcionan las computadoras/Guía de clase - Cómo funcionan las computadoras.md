@@ -165,23 +165,4 @@ Se pueden utilizar nombres de colores generales (ej. azul, amarillo, anaranjado)
 ---
 
 
-# Notas Forge
-
-1. Crear una linea de tiempo (grupos de 5)
-2. En esta linea de tiempo debe haber 1 personaje minimo por cada 50-60 años. 
-3. Debe tener mínimo 1 evento cada 50-60 años. 
-
-1801 o 1822
-
-
-4 de 5 
-
-
-16 8 4 2 1
- 0 0 0 0 0
-
-
-
-
-
 
