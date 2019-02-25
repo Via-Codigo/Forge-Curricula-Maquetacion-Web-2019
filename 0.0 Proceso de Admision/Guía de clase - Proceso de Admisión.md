@@ -18,7 +18,7 @@ Primero se comienza con una pequeña intro a HTML y al ejercicio. Comenzaremos t
 
 ### Presentación
 
-[Link a las diapositivas](https://docs.google.com/presentation/d/1bIEkJnQqsRRfjtSaD3Be9PDzTrSOIPRfAVO3csbd9S4/edit?usp=sharing)
+[Link a las diapositivas]()
 
 ## Conceptos
 

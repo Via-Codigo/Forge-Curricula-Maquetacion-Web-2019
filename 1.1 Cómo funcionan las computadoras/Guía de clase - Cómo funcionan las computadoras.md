@@ -109,7 +109,7 @@ Según cuantos sean y el nivel de dificultad deseado, se pueden formar grupos de
 
 #### Material Actividad
 
-[Tarjetas de bits](https://docs.google.com/document/d/1yX6NYc5WcjjE2gbJUPKq1nd0QVE3ZztfUe49vumpEL4/edit?usp=sharing)
+[Tarjetas de bits](https://drive.google.com/open?id=1bDADOzCzEgtcdb66yG8KoMT_eP3kqyET)
 
 ---
 
