@@ -23,7 +23,7 @@ entender como con 1's y 0's re puede representar palabras, colores y todo lo que
 
 ### Presentación
 
-- [Link a las diapositivas](https://docs.google.com/presentation/d/10_v26YLs1YZTinSewl7BPb7o80n5wadrkRScgi-Zl5k/edit?usp=sharing)
+- [Link a las diapositivas](https://docs.google.com/presentation/d/1Q4XJyvXWQ3JzQclVO5SeV-l38DC_LEVDrt6R8cK0AUg/edit?usp=sharing)
 
 ## Conceptos
 
@@ -108,9 +108,9 @@ Según cuantos sean y el nivel de dificultad deseado, se pueden formar grupos de
 | 1   | 0   | 0   | 0   | 0   | 1   | **33** |
 
 #### Material Actividad
-####PRUEBA
-[Tarjetas de bits](https://drive.google.com/open?id=1bDADOzCzEgtcdb66yG8KoMT_eP3kqyET)
-####PRUEBA
+
+[Tarjetas de bits]()
+
 ---
 
 ### IV. Descifrando Mensajes
@@ -140,8 +140,8 @@ Pueden romper las hojas para repartir los mensajes, pero deben entregarlos todos
 
 #### Material Actividad
 
-- [Tabla Binario/ASCII](https://drive.google.com/open?id=1en2dd3Jk1M-TK6LdymkhFAtoMTO_E7rLQLIqvsk6UsI)
-- [Frases codificadas](https://docs.google.com/document/d/1fo6r169kWLWv9z_r9f77qNSo9jV1H8hXh5P37v1rjl8/edit?usp=sharing)
+- [Tabla Binario/ASCII]()
+- [Frases codificadas]()
 
 ---
 
@@ -160,7 +160,7 @@ Se pueden utilizar nombres de colores generales (ej. azul, amarillo, anaranjado)
 
 #### Material Actividad
 
-- [Tabla para rellenar](https://docs.google.com/document/d/1frNBcRiBQXXzc4Nub5JjmRPXsfwoL2jyBFBKXrZF59o/edit?usp=sharing)
+- [Tabla para rellenar]()
 
 ---
 
