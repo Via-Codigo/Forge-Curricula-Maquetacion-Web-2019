@@ -39,7 +39,27 @@ entender como con 1's y 0's re puede representar palabras, colores y todo lo que
 
 ---
 
-### I. Inventando sistemas de conteo
+### I. Línea de tiempo - Historia de la Computadora
+
+Se desarrollara una línea de tiempo sobre la historia de la computadora.
+
+**Participantes**: todos, en grupos de 4-5 personas.
+
+**Instrucciones**: Cada grupo tendrá unos 15 minutos para buscar información sobre la historia de la computadora y armar una línea de tiempo en un papelógrafo.
+
+Cada integrante del grupo tendrá que exponer su trabajo realizado.
+
+Al final resaltaremos los hechos más importantes sobre la historia de la computadora.
+
+- [Link al Timeline del facilitador](https://docs.google.com/document/d/1ZRVqigQBeIGHQg8QQmuBn0NJFDkCLuXwmXeCdmEXrvM/edit#)
+
+#### Material Actividad
+
+- Papelógrafo, plumones, limpiatipos.
+
+---
+
+### II. Inventando sistemas de conteo
 
 Se desarrollaran ejercicios para explicar que existen sistemas de conteo.
 
@@ -53,7 +73,7 @@ formas de contar.
 
 ---
 
-### II.Binario en pizarra
+### III.Binario en pizarra
 
 **Participantes**: todos, aunque la participación es voluntaria.
 
@@ -64,7 +84,7 @@ Los alumnos en voz alta ayudan al profesor a completar los siguientes números:
 
 ---
 
-### III. Binario con tarjetas
+### IV. Binario con tarjetas
 
 Ejercicio grupal de competencia por equipos en que deben generar cadenas de bits para formar números.
 
@@ -113,7 +133,7 @@ Según cuantos sean y el nivel de dificultad deseado, se pueden formar grupos de
 
 ---
 
-### IV. Descifrando Mensajes
+### V. Descifrando Mensajes
 
 Los Alumnos deberán descifrar mensajes en Binario y ASCII
 
@@ -145,7 +165,7 @@ Pueden romper las hojas para repartir los mensajes, pero deben entregarlos todos
 
 ---
 
-### V. Jugando con colores
+### VI. Jugando con colores
 
 Los alumnos aprenderán a entender colores en RGB y Hexadecimal
 
