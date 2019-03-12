@@ -1,6 +1,4 @@
-# [Git - Introducción]
-
-**Git Introducción**
+# Git - Introducción
 Del taller de [Pepe Miyashiro](https://raw.githubusercontent.com/pepemiyashiro/curricula2018/master/Taller/Git%20Intro.md)
 
 ## Objetivos
