@@ -21,9 +21,9 @@ Del taller de [Pepe Miyashiro](https://raw.githubusercontent.com/pepemiyashiro/c
 - Etiqueta y Buenas prácticas para prevenir problemas en el trabajo colaborativo
 
 ### Materiales
-[Guia Guit Sencilla] (http://rogerdudler.github.io/git-guide/index.es.html)
-[Grafico1](https://i.stack.imgur.com/nWYnQ.png)
-[Grafico2](https://camo.githubusercontent.com/b3eedc13375ea2a245b07d0950b6d70c910def1f/687474703a2f2f626c6f672e706f6472657a6f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30392f6769742d6f7065726174696f6e732e706e67)
+- [Guia Guit Sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
+- [Grafico1](https://i.stack.imgur.com/nWYnQ.png)
+- [Grafico2](https://camo.githubusercontent.com/b3eedc13375ea2a245b07d0950b6d70c910def1f/687474703a2f2f626c6f672e706f6472657a6f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30392f6769742d6f7065726174696f6e732e706e67)
 
 
 ## Actividades
