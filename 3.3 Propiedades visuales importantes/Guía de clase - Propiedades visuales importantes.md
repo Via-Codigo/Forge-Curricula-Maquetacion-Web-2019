@@ -23,7 +23,7 @@ Se presentará a los alumnos con varias propiedades visuales de CSS para que vay
 
 ### Presentación
 
-[Link a las diapositivas]()
+[Link a las diapositivas](https://docs.google.com/presentation/d/1VdraLpOdl_Bdpkk0ZldTSBFDYScnDMeQrR7Md__OmZo/edit?usp=sharing)
 
 ## Conceptos
 
