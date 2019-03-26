@@ -16,7 +16,7 @@ Los alumnos aprenderán sobre la especificidad al utilizar declaraciones CSS sob
 
 ### Presentación
 
-[Link a las diapositivas](https://docs.google.com/presentation/d/1vvikpdNVtXFaC27UVRuldCG7Bg-GHsilJ7e4veq59fY/edit#slide=id.g45e91c2ee7_2_7)
+[Link a las diapositivas](https://docs.google.com/presentation/d/1Rxvdr-q8RO2NYFqXc4rh4qmAy8vdlZvagjO564BX6jg/edit?usp=sharing)
 
 ## Conceptos
 
