@@ -3,16 +3,26 @@
 **Módulo 3.4 - Unidades de CSS**
 
 ## Objetivos
-
+Los alumnos aprenderán qué unidades son típicamente usadas en CSS:
+ - px
+ - rem
+ - em
+ - %
+ - pt
+ - vw
+ - vh
 
 
 ## Descripción corta
+Se presentará a los alumnos con varias propiedades visuales de CSS para que vayan familiarizándose con ellas.
 
 ### Presentación
 
-[Link a las diapositivas]()
+[Link a las diapositivas](https://docs.google.com/presentation/d/1osEu2V59rRSskwEk9soK1I45rwDJLHlHxIb8_MULI-4/edit?usp=sharing)
 
 ## Conceptos
+- Los alumnos aprenderán sobre las siguientes propiedades CSS:
+  - font-size
 
 ## Actividades
 
@@ -29,19 +39,3 @@ Explicación breve actividad
 #### Material Actividad
 
 ---
-
-
-
-# Notas Forge (24-02-2019)
-
-1. Relinkear las diapositivas (carpeta: https://drive.google.com/open?id=1lAKsGYlE6itFPxyi9BIGQbrIUYAoTkIF)
-
-2. Modificar el PPT de **1.1 Como funcionan las computadoras** para que incluya la actividad 1: Timeline. 
-
-3. Modificar Plantilla de **1.1 Como funcionan las computadoras** para que incluya descripción de la actividad 1: Timeline, y también lista de materiales y desarrollo de la actividad. 
-
-4. Hay que hacer nuestro propio timeline para usar de referencia para dar el cierre a la actividad. <Nestor>
-
-5. Agregar logo de Forge en los PPTs
-
-
