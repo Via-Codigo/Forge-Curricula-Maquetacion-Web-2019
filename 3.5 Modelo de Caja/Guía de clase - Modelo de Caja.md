@@ -19,7 +19,7 @@ Terminamos utilizando las 3 propiedades que definen la caja, border, padding y m
 
 ### Presentación
 
-[Link a las diapositivas](https://docs.google.com/presentation/d/19J-B6VWbIBX7XRljIltm1RfKwBP3U8voQXhjTGhzucc/edit#slide=id.g472734ca5e_0_38)
+[Link a las diapositivas](https://docs.google.com/presentation/d/1qXuG_juROxLCz7ST0uJ5LGf100m7cztkO1bSg8XfWNQ/edit?usp=sharing)
 
 ## Conceptos
 
