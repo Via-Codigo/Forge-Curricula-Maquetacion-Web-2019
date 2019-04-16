@@ -14,7 +14,7 @@ Se enseña que es flexbox y para que sirve. Se enseñan las principales propieda
 
 ### Presentación
 
-[Link a las diapositivas](https://docs.google.com/presentation/d/1Zly0xgnUco03VZPFdVeSz919iE7ZAWkHlOo6bGg0kOo/edit?usp=drive_web&ouid=109597575603467035313)
+[Link a las diapositivas](https://docs.google.com/presentation/d/1OWjnaETpMAULmyJWUsQzcgUuMHerHyWAfQAfz1DNlgw/edit?usp=sharing)
 
 ## Conceptos
 * Flexbox
