@@ -4,10 +4,10 @@
 ## Colores
 
 - verdigris: #479bad
-- coolgrey: #839ba7
+- coolgrey:  #839ba7
 - aguabella: #55a3b7
 - azulnoche: #3e4557
-- tuquesino: #1e6987
+- turquesino: #1e6987
 
 ## fuentes
 
