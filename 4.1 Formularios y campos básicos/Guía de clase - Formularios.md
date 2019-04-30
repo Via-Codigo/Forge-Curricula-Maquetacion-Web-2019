@@ -12,7 +12,7 @@
 Los alumnos aprenden la importancia de los formularios HTML, sus elementos y atributos, y como crearlos.
 ### Presentación
 
-[Link a las diapositivas](https://docs.google.com/presentation/d/161LaRFheKvczsVjXmE6YcpRDDph6ebwSoWoWzVG1it0)
+[Link a las diapositivas](https://docs.google.com/presentation/d/1rUBPsnzZnZkSH4i1Qoi3DNYIdpicYJWSf9WswIzvsyI/edit?usp=sharing)
 
 ## Conceptos
 
