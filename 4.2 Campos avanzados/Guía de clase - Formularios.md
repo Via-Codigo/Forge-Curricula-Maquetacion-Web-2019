@@ -12,7 +12,7 @@
 Los alumnos aprenden distintos tipos de campos avanzados para el manejo de fechas, archivos, etc.
 ### Presentación
 
-[Link a las diapositivas](https://docs.google.com/presentation/d/161LaRFheKvczsVjXmE6YcpRDDph6ebwSoWoWzVG1it0)
+[Link a las diapositivas](https://docs.google.com/presentation/d/1M_VEDutD7gD1IrmMUhbfY0mseuL-6TAkhKDqchtP0-s/edit?usp=sharing)
 
 ## Conceptos
 
