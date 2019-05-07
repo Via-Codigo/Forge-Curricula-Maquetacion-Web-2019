@@ -14,7 +14,7 @@ Enseñaremos como crear submenues utilizando solo CSS.
 
 ### Presentación
 
-[Link a las diapositivas](https://drive.google.com/open?id=1tpCBHG4UXhF__51cIZtKr2e9CLKy9lOTmAB-PpKsyNM)
+[Link a las diapositivas](https://docs.google.com/presentation/d/1HIifwAW1o5qgNwRpnw46_ii7VZkZyBz4d2QUM-IEMV4/edit?usp=sharing)
 
 ## Conceptos
 
