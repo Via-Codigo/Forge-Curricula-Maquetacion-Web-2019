@@ -4,9 +4,9 @@
 
 ## Objetivos
 
-Los alumnos aprenderán que existen varias pseudo clases y practicarán con las principales.
+Los alumnos aprenderán que existen varias pseudo-clases y practicarán con las principales.
 
-Se les entrega un [listado](https://docs.google.com/document/d/1_HXQDgvrPu0UEqUKJo16-Vj2Wc_ZkckujDlxVmonQZU/edit?usp=sharing) de todas las pseudo clases y que hacen
+Se les entrega un [listado](https://docs.google.com/document/d/1_HXQDgvrPu0UEqUKJo16-Vj2Wc_ZkckujDlxVmonQZU/edit?usp=sharing) de todas las pseudo-clases y que hacen
 
 ## Descripción corta
 
@@ -14,7 +14,7 @@ Los alumnos aprenderán a generar UI que comunican al usuario a través del uso 
 
 ### Presentación
 
-[Link a las diapositivas](https://docs.google.com/presentation/d/10jS9midT6tlp3e7cPYCZtWSNz_74ro4SHNU447Uj5TU/edit?usp=sharing)
+[Link a las diapositivas](https://docs.google.com/presentation/d/1KOhgVBEaXuZPRs-HvFxvjOw4TpgVp_7_GvBrpezkSyM/edit?usp=sharing)
 
 ## Conceptos
 
