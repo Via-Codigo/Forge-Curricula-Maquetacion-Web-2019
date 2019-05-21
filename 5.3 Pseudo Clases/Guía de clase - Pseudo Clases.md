@@ -6,7 +6,7 @@
 
 Los alumnos aprenderán que existen varias pseudo-clases y practicarán con las principales.
 
-Se les entrega un [listado](https://docs.google.com/document/d/1_HXQDgvrPu0UEqUKJo16-Vj2Wc_ZkckujDlxVmonQZU/edit?usp=sharing) de todas las pseudo-clases y que hacen
+Se les entrega un [listado](https://docs.google.com/document/d/1euuix4GgbzCEYOi35VSnCDDzYaIpjMFF74VDPjffwyU/edit?usp=sharing) de todas las pseudo-clases y que hacen
 
 ## Descripción corta
 
@@ -38,10 +38,10 @@ Se probarán las distintas pseudoclases
 
 **Participantes**: todos
 
-**Instrucciones**: Todos los ejemplos de la diapositiva tienen un ejemplo que los alumnos deben seguir. Se les pide que creen un documento llamado **pseudoclases.html** donde puedan ir practicando
+**Instrucciones**: Descargar el siguiente archivo y leer las indicaciones que están en el archivo style.css
 
 #### Material Actividad
 
-la diapositiva principal.
+- [Descargar archivos](https://drive.google.com/file/d/1-VqGtLJI-kw_QU9oaLfn0QdzZpAwwigp/view?usp=sharing).
 
 ---

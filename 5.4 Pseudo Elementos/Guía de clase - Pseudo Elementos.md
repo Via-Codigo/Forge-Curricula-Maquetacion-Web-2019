@@ -6,7 +6,7 @@
 
 Se enseña a los alumnos a trabajar con los pseudo elementos y para que sirven
 
-Se les entrega una [lista](https://docs.google.com/document/d/1D-cgDCsMNr329Ssurg4aM4ROU7gFQG2ALx5skuGodyw/edit?usp=sharing) de los pseudo elementos.
+Se les entrega una [lista](https://docs.google.com/document/d/1RtOBI4bUixwkbqidwhPhmcenqgIVRrU8xodq3Aiku5M/edit?usp=sharing) de los pseudo elementos.
 
 ## Descripción corta
 
@@ -14,7 +14,7 @@ Los alumnos aprenderán a usar los pseudo elementos, haciendo principal énfasis
 
 ### Presentación
 
-[Link a las diapositivas](https://drive.google.com/open?id=1Vo-nMrBIBMjQYZokmqvbRIoOLg79HijUgnglI93-Amw)
+[Link a las diapositivas](https://docs.google.com/presentation/d/1nCig9-j45C-1Gjq_WWsjT6TXqYSK89dCrAxRwXkRiCk/edit?usp=sharing)
 
 ## Conceptos
 
